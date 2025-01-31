@@ -1,4 +1,8 @@
- //  function sumArray(numbers) {
+ //4- Calculate the sum of numbers in an array of numbers 
+
+  //-----------------------------------------------------------------------------
+
+//   function sumArray(numbers) {
 //     let sum = 0;
 
 //     for (let i = 0; i < numbers.length; i++) { 
@@ -24,8 +28,9 @@
 
 
 
+//1-Find the maximum number in an array of numbers
 
-
+  //-----------------------------------------------------------------------------
 
 // function bignumber(big) {
 // let num = big[0];
@@ -51,7 +56,9 @@
 
 
 
+//3-Calculate the average of the numbers in an array of numbers 
 
+  //-----------------------------------------------------------------------------
 
 // function sum (x,y,z,i,o,f){
 //   return x+y+z+i+o+f;
@@ -62,8 +69,5 @@
 // }
 
 // document.writeln(average(10,20,30,40,50,60)) 
-
-
-
 
 
